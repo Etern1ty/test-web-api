@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Db8dFLyCtoPSszMABoFfG5Phl/qw2mrc8Pk04gkZGCemVgS55Erkc9n7DRAMKSGkE7fZUzXp2hNghyxNbMu/Q==",
+  "success": true,
+  "projectFilePath": "/Users/nvkatsak/RiderProjects/test-web-api/Test.Web.Api/Test.Web.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/nvkatsak/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/swashbuckle.aspnetcore.annotations/6.5.0/swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/system.data.sqlclient/4.8.6/system.data.sqlclient.4.8.6.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/nvkatsak/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
